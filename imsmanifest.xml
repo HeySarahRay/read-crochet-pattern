@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<manifest identifier="xqov8krrR_C0yCwh-J9TD1nFyDZ88FXQ_63s5m_L" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>How to Read Crochet Patterns</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>How to Read Crochet Patterns</title>
+        <adlcp:datafromlms>eyJjcHYiOiJfNjNzNW1fTCIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Montserrat-SemiBold.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Medium.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Black.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Bold.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Italic.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Regular.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/assets/StFePJNEbAlbzrXg_small.png" />
+<file href="scormcontent/assets/DESU7CH3yrYEBdbV_transcoded-eEML_3Tp6jkLSke7-Slipknot-00001.png" />
+<file href="scormcontent/assets/7jSlV877diMq5928_transcoded-eEML_3Tp6jkLSke7-Slipknot.mp4" />
+<file href="scormcontent/assets/32SMOXoVhMaW4wn6_transcoded-vqAhfaj0ArLNIk4V-Yarnover-00001.png" />
+<file href="scormcontent/assets/S9FTC95zRGVyB7jl_transcoded-vqAhfaj0ArLNIk4V-Yarnover.mp4" />
+<file href="scormcontent/assets/ifWX41Y_uTfAw6Iv_transcoded-Mbo_d2TV6w8gBY2g-Chain-00001.png" />
+<file href="scormcontent/assets/XK2wOhI9gwtj2EVh_transcoded-Mbo_d2TV6w8gBY2g-Chain.mp4" />
+<file href="scormcontent/assets/BFK6xrFxKCaqTo16_transcoded-xl_B4NM0pC8aLgAq-Magic%20Ring-00001.png" />
+<file href="scormcontent/assets/1dBi_gIVOKCr3tcx_transcoded-xl_B4NM0pC8aLgAq-Magic%20Ring.mp4" />
+<file href="scormcontent/assets/sAAsEsuhr0eM9Gqx_transcoded-0Vt3k7GvuL2mbvzc-Single-00001.png" />
+<file href="scormcontent/assets/wB7OyiZ0UG8lHCpk_transcoded-0Vt3k7GvuL2mbvzc-Single.mp4" />
+<file href="scormcontent/assets/ktlBmEOxdogBVDc7_transcoded-8XyAbq10Iwz4yAqH-Half%20Double-00001.png" />
+<file href="scormcontent/assets/vQ0uqqyPbQh9NXux_transcoded-8XyAbq10Iwz4yAqH-Half%20Double.mp4" />
+<file href="scormcontent/assets/sOLtD7Tac9dYL1D7_transcoded-82u4bwrGD0Gj3nwi-Double-00001.png" />
+<file href="scormcontent/assets/mUTdzUyEVdUS8hUR_transcoded-82u4bwrGD0Gj3nwi-Double.mp4" />
+<file href="scormcontent/assets/KPqf5dIk_pE7gAWw_transcoded-eJca0sFJrElQdfhH-Treble-00001.png" />
+<file href="scormcontent/assets/FVudqVsvHvMT2EA2_transcoded-eJca0sFJrElQdfhH-Treble.mp4" />
+<file href="scormcontent/assets/oNYxjuJuwlz1n4-L_transcoded-4wKsy8J7Od6IiRB4-Slip-00001.png" />
+<file href="scormcontent/assets/OFkSIXaNj6s5a0vg_transcoded-4wKsy8J7Od6IiRB4-Slip.mp4" />
+<file href="scormcontent/assets/Rsba7z_hflUiZ3M0_transcoded-1-K8CzcMH_lQFm5Z-Increase-00001.png" />
+<file href="scormcontent/assets/2zuC89lWP35NWtA3_transcoded-1-K8CzcMH_lQFm5Z-Increase.mp4" />
+<file href="scormcontent/assets/1Uc9gVIWOF8uWAjh_transcoded-v423aeqUQkgWdkOR-Two%20Together-00001.png" />
+<file href="scormcontent/assets/uYlnvDFA4TNd5hL__transcoded-v423aeqUQkgWdkOR-Two%20Together.mp4" />
+<file href="scormcontent/assets/bSglPHCMQDuE98m5_yZh7RmW-dOdiKJFF.jpg" />
+<file href="scormcontent/assets/BLCRgjy0v6HexSGE_Ih5P1X9PRDQ4IZhW.jpg" />
+<file href="scormcontent/assets/0Ijhv3gWZzhPKz5N_8fXuEfsfe47OFanc.jpg" />
+<file href="scormcontent/assets/6vuyF4zpbYDcHKzv_mountains.jpg" />
+<file href="scormcontent/assets/LzsUNyq4pxLvb8Sd_transcoded-ymw6OUQMmGD-0STJ-chain%20row-00001.png" />
+<file href="scormcontent/assets/LlNbcSSr8hX9hOEu_transcoded-ymw6OUQMmGD-0STJ-chain%20row.mp4" />
+<file href="scormcontent/assets/aak-ihm4UjpYayJU_transcoded-I_zG_HznHSTmvdIZ-in%20the%20loop%20-%20mr-00001.png" />
+<file href="scormcontent/assets/9LrG_s__eETHBQFO_transcoded-I_zG_HznHSTmvdIZ-in%20the%20loop%20-%20mr.mp4" />
+<file href="scormcontent/assets/v_KWuEfYtx5HmsqS_transcoded-e12yf4OYT8aKC1VK-in%20the%20loop%20-%20chain-00001.png" />
+<file href="scormcontent/assets/7l7f-32zpYXwXmY2_transcoded-e12yf4OYT8aKC1VK-in%20the%20loop%20-%20chain.mp4" />
+<file href="scormcontent/assets/ZtZmyWj3T_-CPf_j_AXNujAGrPaR8UHty.jpg" />
+<file href="scormcontent/assets/fUiknxd_zuK4SAho_71FSbRcaS8IrlqFi-Beginner%20Crochet%20Dishcloth%20Pattern.pdf" />
+<file href="scormcontent/assets/IDvUd-WJExHcB1po_lfj7ejBRG5JhY4jm-Beginner%20Crochet%20Granny%20Square%20Pattern.pdf" />
+<file href="scormcontent/assets/5MWtsbf7UmRIuCiT_-0EKVzYQRzCrIl7P-Beginner%20Crochet%20Basket%20Pattern.pdf" />
+<file href="scormcontent/assets/zpkRKzTGJ7s2NVGD_4y30u2p9SZjtIhPd.jpg" />
+<file href="scormcontent/assets/a88vcydobyl9oAI8_8AFJ8WkJaIGRjLIs.jpg" />
+<file href="scormcontent/assets/4q3s9k_ssXQ5yLw5_3_medical.jpg" />
+<file href="scormcontent/assets/Bsatt6Zy0huOcr2F_example-header-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
